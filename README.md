@@ -22,7 +22,7 @@ Spring framework with hibernate/JPA database ![success](https://img.shields.io/b
 
 # TroubleShooting
 * Database Name
-* Database User
+* Database User(authorized)
 * Database password
 * hibernateDialect
 * TimeZone
