@@ -1,5 +1,7 @@
 # FullStackDev ![version](https://img.shields.io/badge/Version-0.0.1-green.svg)
 yet processing...
+
+Currently:
 Spring framework with hibernate/JPA database ![success](https://img.shields.io/badge/Connection-success-informational.svg)
 
 
@@ -10,6 +12,7 @@ Spring framework with hibernate/JPA database ![success](https://img.shields.io/b
 * Dart Sass
 * Thymeleaf
 * Spring Boot (Project Type: Maven Project)
+* JAVA8
 * Hibernate/JPA
 * MySQL/MariaDB
 
@@ -17,8 +20,9 @@ Spring framework with hibernate/JPA database ![success](https://img.shields.io/b
 
 
 
-
 # TroubleShooting
 * Database Name
 * Database User
 * Database password
+* hibernateDialect
+* TimeZone
