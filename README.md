@@ -14,3 +14,11 @@ Spring framework with hibernate/JPA database ![success](https://img.shields.io/b
 * MySQL/MariaDB
 
 ### Database Migration [Flyway](https://flywaydb.org/)
+
+
+
+
+# TroubleShooting
+* Database Name
+* Database User
+* Database password
