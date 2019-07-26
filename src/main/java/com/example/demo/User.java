@@ -1,12 +1,15 @@
 package com.example.demo;
 import javax.persistence.*;
 import java.io.Serializable;
-
+/*
+Updated by HS
+7/26/2019
+*/
 @Entity
 public class User implements Serializable{
 
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
     @Column(name="name", nullable=false)
