@@ -26,3 +26,9 @@ Spring framework with hibernate/JPA database ![success](https://img.shields.io/b
 * Database password
 * hibernateDialect
 * TimeZone
+
+
+## License [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
+The MIT License
+<br/>
+MIT © [ChoHyoungSeo](https://github.com/ChoHyoungSeo/)
